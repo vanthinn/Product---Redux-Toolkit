@@ -1,0 +1,28 @@
+.info-product {
+  margin: 24px 40.5%;
+}
+
+@media screen and (max-width: 768px) {
+  .info-product {
+    margin: 24px 20%;
+  }
+}
+
+.form-group {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.btn-submit {
+  background-color: rgb(45, 204, 82);
+  border: none;
+  font-size: 16px;
+  border-radius: 4px;
+  color: rgb(249, 232, 232);
+  padding: 6px 14px;
+}
+.btn-submit:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}

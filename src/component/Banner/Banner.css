@@ -1,0 +1,17 @@
+.banner {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  height: 15rem;
+
+  background-image: url(../../asset/images/white-bg.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.banner__title {
+  color: rgba(211, 154, 154, 0.85);
+  font-weight: bold;
+  font-size: 32px;
+}

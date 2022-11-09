@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 28px;
+  padding: 12px 24px;
+}
+
+.header-title {
+  text-decoration: none;
+  color: rgb(250, 142, 142);
+}
+
+.sign-in {
+  text-decoration: none;
+  color: rgb(11, 11, 11);
+}

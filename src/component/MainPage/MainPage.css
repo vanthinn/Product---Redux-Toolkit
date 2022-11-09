@@ -1,0 +1,14 @@
+.margin-top {
+  margin-top: 30px;
+}
+.btn-add {
+  font-size: 14px;
+  background-color: rgb(19, 19, 205);
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 12px;
+  border-radius: 4px;
+}
+.btn-add:hover {
+  opacity: 0.9;
+}
